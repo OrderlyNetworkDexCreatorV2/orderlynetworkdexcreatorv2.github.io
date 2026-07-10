@@ -1,0 +1,2 @@
+import{s as o}from"./adminKeyAuth-DlvhvPjP.js";import{c as t}from"./campaigns-BcNLyRoa.js";function n(){const r=t(),e=o({skipWalletCheck:!0});return(r==null?void 0:r.role)==="ambassador"?"ambassador":(r==null?void 0:r.brokerId)||(e==null?void 0:e.brokerId)||typeof window<"u"&&window.localStorage.getItem("current_user_broker_id")||void 0}export{n as g};
+//# sourceMappingURL=analytics-Co8M8Xgc.js.map
